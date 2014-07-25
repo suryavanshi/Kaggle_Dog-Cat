@@ -1,4 +1,4 @@
-The code achived 74.4% accuracy by using Scikit-image and Scikit learn.
+This code achived 74.4% accuracy by using Scikit-image and Scikit learn.
 
 Kaggle_Dog-Cat
 ==============
